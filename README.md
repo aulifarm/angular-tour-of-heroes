@@ -1,6 +1,6 @@
 # Angular - Tour of Heroes
 
-Created following <a href="https://angular.io/tutorial" target="_blank">this</a> example. 
+Created following <a href="https://angular.io/tutorial" target="_blank">this</a> tutorial. 
 Hosted <a href="https://aulifarm.github.io/angular-tour-of-heroes/" target="_blank">here</a>.
 
 ## AngularTourOfHeroes
