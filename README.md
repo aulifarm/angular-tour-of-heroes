@@ -1,9 +1,9 @@
-## Angular - Tour of Heroes
+# Angular - Tour of Heroes
 
-Created following <a href="https://angular.io/tutorial" target="_blank">this</a>example. 
+Created following <a href="https://angular.io/tutorial" target="_blank">this</a> example. 
 Hosted <a href="https://aulifarm.github.io/angular-tour-of-heroes/" target="_blank">here</a>.
 
-# AngularTourOfHeroes
+## AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
